@@ -1,6 +1,6 @@
 {% set name = "wq.core" %}
-{% set version = "1.0.0" %}
-{% set sha256 = "be6e51377fea95fa128c60094ec3ccba85646e4c97deea8c13112502967d0244" %}
+{% set version = "1.1.0" %}
+{% set sha256 = "3578fcd463a870908c172786372530238633ec35037e0a38976f916b19cbc190" %}
 
 
 package:
