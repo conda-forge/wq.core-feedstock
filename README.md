@@ -14,12 +14,15 @@ wq.core provides the core wq command line application for use by wq.app and othe
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/wq.core-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/wq.core-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/wq.core-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/wq.core-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/wq.core/badges/version.svg)](https://anaconda.org/conda-forge/wq.core)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/wq.core/badges/downloads.svg)](https://anaconda.org/conda-forge/wq.core)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-wq.core-green.svg)](https://anaconda.org/conda-forge/wq.core) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/wq.core.svg)](https://anaconda.org/conda-forge/wq.core) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/wq.core.svg)](https://anaconda.org/conda-forge/wq.core) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/wq.core.svg)](https://anaconda.org/conda-forge/wq.core) |
 
 Installing wq.core
 ==================
