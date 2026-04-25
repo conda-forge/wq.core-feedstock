@@ -1,6 +1,6 @@
 {% set name = "wq.core" %}
-{% set version = "1.1.0" %}
-{% set sha256 = "3578fcd463a870908c172786372530238633ec35037e0a38976f916b19cbc190" %}
+{% set version = "1.2.0" %}
+{% set sha256 = "20733e926c752037f77da641a2a12e530d4f9727f98894e96d6916fb75b073b3" %}
 
 
 package:
@@ -15,7 +15,7 @@ source:
 build:
   number: 0
   noarch: python
-  script: python -m pip install --no-deps --ignore-installed .
+  script: {{ PYTHON }} -m pip install . --no-deps -vv
 
 requirements:
   build:
